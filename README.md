@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=onedark" alt="adithya-s-k" /></a> </p>
 
 
-- 🔭 I’m currently working on [AIWA(AI workout assistant) which makes home workout enjoyable and safe](https://github.com/adithya-s-k/Aiwa)
+- 🔭 I’m currently working on [Fiton(AI virtual workout assistant) which makes home workout enjoyable and safe](https://github.com/adithya-s-k/Aiwa)
 
 - 🌱 I’m currently learning **JavaScript, Game Development, Python, Image Processing, AI and ML**
 
