@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adithya-s-k](https://github.com/adithya-s-k)
 
-- 💬 Ask me about **Open CV, Python, GUI(Python), UI UX**
-
 - 📫 How to reach me **adithyaskolavi@gmail.com**
 
 - ⚡ Fun fact **I am doing the challenge to keep my git contribution map completely green**
