@@ -40,4 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&locale=en&theme=onedark" alt="adithya-s-k" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya-s-k&show_icons=true&locale=en&layout=compact&theme=onedark" alt="adithya-s-k" /></p>
 
-<img alt="Activity Graph" src="ttps://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=github"/>
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=github"/>
