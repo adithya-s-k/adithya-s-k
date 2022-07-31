@@ -36,7 +36,6 @@
 
 <b><h3>📈Wakatime Stats</h3>
 <a href="https://wakatime.com/@savatar"><img src="https://wakatime.com/share/@savatar/28ccc8c4-46ec-4684-a366-556556162cff.png" height = 375/></a>
-<a href="https://wakatime.com/@savatar"><img src="https://wakatime.com/share/@savatar/43c1d883-8601-4ae8-ab81-b7c3838cab92.png" height = 375[![wakatime]
+<a href="https://wakatime.com/@savatar"><img src="https://wakatime.com/share/@savatar/43c1d883-8601-4ae8-ab81-b7c3838cab92.png" height = 375/></a>
 <h3>CODING TIME SINCE August 2022</h3>
-(https://wakatime.com/badge/user/304743fe-9563-4a62-ae98-db45e54f873a.svg)](https://wakatime.com/@304743fe-9563-4a62-ae98-db45e54f873a)/></a>
-[![wakatime](https://wakatime.com/badge/user/304743fe-9563-4a62-ae98-db45e54f873a.svg)](https://wakatime.com/@304743fe-9563-4a62-ae98-db45e54f873a)
+<a href="https://wakatime.com/@304743fe-9563-4a62-ae98-db45e54f873a"><img src="https://wakatime.com/badge/user/304743fe-9563-4a62-ae98-db45e54f873a.svg" alt="Total time coded since Jul 28 2022" /></a>
