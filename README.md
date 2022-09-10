@@ -33,3 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya-s-k&show_icons=true&locale=en&layout=compact&theme=onedark" alt="adithya-s-k" /></p> -->
 <br />
 <p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=github"/></p>
+
+<h3>Coding time this month</h3>
+
+![wakatime](https://wakatime.com/badge/user/8ebdcc36-508a-448f-97fb-5786959d8936.svg)
