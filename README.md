@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 <h3 align="center">I'm a Student, Creative Developer, Designer!!</h3>
 
-<p align="left"> <img width="90%" src="https://komarev.com/ghpvc/?username=adithya-s-k&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-s-k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-s-k&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-s-k" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+<p><img width="70%"  src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+<p><img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+<p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" /></p>
+<p><img width="40%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
 - 🌱 I’m currently learning **Deep Learning , React JS , Embedded C**
 
