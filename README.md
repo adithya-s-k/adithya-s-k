@@ -3,12 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-s-k&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-s-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=onedark" alt="adithya-s-k" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
+</p>
 
 
-- 🔭 I’m currently working on [Fiton(AI virtual workout assistant) which makes home workout enjoyable and safe](https://github.com/adithya-s-k/Aiwa)
 
-- 🌱 I’m currently learning **JavaScript, Game Development, Python, Image Processing, AI and ML**
+
+- 🌱 I’m currently learning **Deep Learning , React JS , Embedded C**
 
 - 👯 I’m looking to collaborate on [Courserf a course aggregate website which allows you to compare courses from different websites](https://github.com/adithya-s-k/Courserf)
 
