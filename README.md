@@ -17,10 +17,11 @@
 
 ### GitHub Stats
 
-<p><img width="70%"  src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
-<p><img align="center" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
-<p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" /></p>
-<p><img width="40%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+
+<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" /></p>
 
 <p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=nord"/></p>
 
