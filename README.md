@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 <h3 align="center">I'm a Student, Creative Developer, Designer!!</h3>
 
-![](./assets/banner.png)
+![www.adithyaskolavi.xyz](./assets/banner.png)
+<p><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 
 - 🌱 I’m currently learning **Deep Learning , React JS , Embedded C**
 
@@ -17,7 +18,6 @@
 
 ### GitHub Stats
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
