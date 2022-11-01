@@ -3,7 +3,7 @@
 
 <hr></hr>
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
-<h3 align="center">I'm a Student, Creative Developer, Designer!!</h3>
+<h3 align="center">Full Stack Web Developer | UAV and Drones | Robotics | IoT | Open Source Contributore | Freelancer | UI UX Designer | Graphic Designer | PESU CSE '25</h3>
 <hr></hr>
 
 - 🌱 I’m currently learning **Deep Learning , React JS , Embedded C**
