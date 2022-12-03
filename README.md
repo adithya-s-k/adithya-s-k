@@ -17,9 +17,14 @@
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
-<p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" /></p>
 
 <p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=nord"/></p>
+
+<div>
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithya-s-k&theme=github_dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithya-s-k&theme=github_dark" />
+    <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithya-s-k&theme=github_dark&utcOffset=6" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +32,7 @@
 <a href="https://www.hackerrank.com/adithyaskolavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adithya s k @adithyaskolavi" height="30" width="40" /></a>
 <a href="https://leetcode.com/adithya_s_k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adithya_s_k/" height="30" width="40" /></a>
 </p>
+
 
 <h3>Coding time this month</h3>
 
