@@ -19,14 +19,14 @@
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 <p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
 
-<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=nord"/></p>
+<a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"></a>
 
 <div>
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithya-s-k&theme=github_dark" />
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithya-s-k&theme=github_dark" />
     <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithya-s-k&theme=github_dark&utcOffset=6" />
 </div>
-<a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
