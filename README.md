@@ -3,18 +3,16 @@
 <h3 align="center">I'm a Student, Creative Developer, Designer!!</h3>
 
 ![www.adithyaskolavi.xyz](./assets/banner.png)
+
 <p><img src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
 
 - 🌱 I’m currently learning **Deep Learning , React JS , Embedded C**
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/adithya-s-k](https://github.com/adithya-s-k)
 
 - 📫 How to reach me **adithyaskolavi@gmail.com**
 
 - ⚡ Fun fact **I am doing the challenge to keep my git contribution map completely green**
-
-
 
 ### GitHub Stats
 
@@ -23,7 +21,7 @@
 
 <p><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-s-k&langs_count=6&layout=compact&theme=nord" /></p>
 
-<p><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adithya-s-k&theme=nord"/></p>
+<a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
