@@ -1,7 +1,3 @@
-![www.adithyaskolavi.me](./assets/banner.png)
-
-<p><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/></p>
-
 <hr></hr>
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 <h3 align="center">Full Stack Web Developer | UAV and Drones | Robotics | IoT | Open Source Contributore | Freelancer | UI UX Designer | Graphic Designer | PESU CSE '25</h3>
@@ -14,10 +10,17 @@
 
 <hr></hr>
 
-### GitHub Stats
+![www.adithyaskolavi.me](./assets/banner.png)
 
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
-<p><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+<p><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/></p>
+
+
+
+<!-- ### GitHub Stats -->
+
+<p><img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" alt="adithya-s-k" /></p>
+<p><img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/></p>
+
 
 <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"></a>
 
