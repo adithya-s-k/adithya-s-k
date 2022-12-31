@@ -11,7 +11,7 @@
 <br/>
 
 <div>
-  <h3 align="center">Connect with me</h3>
+  <h1 align="center">Connect with me</h1>
 
   <div align="center">
   <!-- Github link -->
@@ -39,7 +39,7 @@
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
-<h3 align="center">GitHub Statistics 📃</h3>
+<h1 align="center">GitHub Statistics 📃</h1>
 <!-- trophy stats -->
 <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
 
@@ -64,20 +64,20 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
-</div>
+</div> -->
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <!-- Main Table Column Two -->
-<h2>My Skills</h2>
+<h1>My Skills</h1>
 
 <table><tr><td valign="top" width="50%">
 
-<h3 align="center">Proficient</h3>
+<h1 align="center">Proficient</h1>
 
-<h4 align="center">Web Development</h4>
+<h3 align="center">Web Development</h3>
 
 <div align="center">
 <table>
@@ -205,35 +205,76 @@
 
 ### Machine learning
 
-<div align="center">  
+<div align="center">
+<table>
+  <tr>
+    <td>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</td>
+<td>
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+</td>
+</tr>
+</table>  
 </div>
 
 ### Dev Tools & Software
 
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+      </td>
+      <td>
+        <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+      </td>
+      <td>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+      </td>
+      <td>
+        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+    </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+    </td>
+    <td>
+      <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
+    </td>
+    </tr>
+
+</table>
 </div>
 
 </td><td valign="top" width="50%">
 
 <!-- Main Table Column Two -->
 
-<h3 align="center">Learning & Exploring</h3>
+<h1 align="center">Learning & Exploring</h1>
 
-<h4 align="center">Web Development</h4>
+<h3 align="center">Web Development</h3>
 
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
