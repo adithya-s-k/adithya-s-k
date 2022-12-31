@@ -70,8 +70,9 @@
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+<details>
+<summary><h1>My Skills</h1></summary>
 <!-- Main Table Column Two -->
-<h1>My Skills</h1>
 
 <table><tr><td valign="top" width="50%">
 
@@ -295,7 +296,6 @@
       </td>
 </tr>
 <tr>
-  <td>
       <td>
         <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
       </td>
@@ -417,7 +417,7 @@
 </div>
 
 </td></tr></table>
-
+</details>
 <br/>
 
 <br/>
