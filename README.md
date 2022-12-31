@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Practitioner)](https://git.io/typing-svg)
 
 </div>
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2&height=2.5'/>
 
 <br/>
 
@@ -274,7 +275,10 @@
 
 <br/>
 
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2&height=2.5'/>
+
 [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2&height=2.5'/>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
