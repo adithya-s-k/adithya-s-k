@@ -8,6 +8,12 @@
 
 </div>
 
+<div>
+- My interests and passions lie in various areas of technology, including web development, machine learning, cloud computing, IoT, robotics, and drones. I am always eager to learn and explore new technologies and their potential to solve real-world problems.
+- As a programmer, I strive for consistency and always aim to improve my skills through continuous learning and practice. I consider myself to be a multitasker and am able to effectively handle multiple tasks and responsibilities at the same time. I believe that technology and code have the power to make a positive impact on the world and I am driven by the goal of using my skills and knowledge to find unique and innovative solutions to everyday problems.
+- I am a practical learner and prefer to learn by doing. I enjoy experimenting with new concepts and technologies on my own and am always open to new challenges and opportunities to grow as a programmer. Thank you for considering me and my skills.
+</div>
+
 <br/>
 
 <div>
