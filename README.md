@@ -22,17 +22,22 @@
     <a href="https://linkedin.com/in/rishavanand" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
+    <!-- Twitter link -->
     <a href="https://twitter.com/adithya_s_k" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
+    <!-- Dev link -->
     <a href="" target="_blank">
       <img src=https://img.shields.io/badge/dev.to-%232E3440.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
     </a>
+    <!-- follow link -->
     <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fadithya-s-k">
       <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
     </a>
   </div>
 </div>
+
+<hr>
 
 <h3 align="center">GitHub Statistics 📃</h3>
 
@@ -47,27 +52,26 @@
 <br/>
 
 <div align="center">
-
-<img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
-
-<div>
-
-<br/>
-
-<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
 <div>
 
 <br/>
 
-## My Skill Set
+<div align="center">
+  <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
+</div>
+
+<hr>
+
+<!-- Main Table Column Two -->
+<h2>My Skills</h2>
 
 <table><tr><td valign="top" width="50%">
 
-### Proficient
+<h3 align="center">Proficient</h3>
 
-### Web Development
+<h4 align="center">Web Development</h4>
 
 <div align="center">
 <table>
@@ -209,13 +213,11 @@
 
 </td><td valign="top" width="50%">
 
-### Learning
+<!-- Main Table Column Two -->
 
-<div align="center">  
-  
-</div>
+<h3 align="center">Learning & Exploring</h3>
 
-### Web Development
+<h4 align="center">Web Development</h4>
 
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
@@ -278,8 +280,10 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+<br/>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=adithya-s-k&&style=flat-square" align="center" />
+<img width="200px" src="https://komarev.com/ghpvc/?username=adithya-s-k&&style=for-the-badge" align="center" />
 </div>
 
 <br/>
