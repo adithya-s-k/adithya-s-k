@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 
-![www.adithyaskolavi.me](https://res.cloudinary.com/dbl53sidm/image/upload/v1672483562/github/adithya-s-k_c5svmb.gif)
+<a href="www.adithyaskolavi.me"><img src="https://res.cloudinary.com/dbl53sidm/image/upload/v1672483562/github/adithya-s-k_c5svmb.gif" alt="banner"></a>
 
 <h3 align="center">Full Stack Web Developer | UAV and Drones | Robotics | IoT | Open Source Contributore | Freelancer | UI UX Designer | Graphic Designer | PESU CSE '25</h3>
 
@@ -23,5 +23,3 @@
 </p>
 
 [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
-
-<iframe style="border:none ;pointer-events: none;" src="https://embed.lottiefiles.com/animation/93699"></iframe>
