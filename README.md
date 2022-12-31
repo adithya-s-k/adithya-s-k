@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 
-<a href="www.adithyaskolavi.me"><img src="https://res.cloudinary.com/dbl53sidm/image/upload/v1672483562/github/adithya-s-k_c5svmb.gif" alt="banner"></a>
+<a href="www.adithyaskolavi.me"><img src="./assets/adithya-s-k.gif" alt="banner"></a>
 
 <h3 align="center">Full Stack Web Developer | UAV and Drones | Robotics | IoT | Open Source Contributore | Freelancer | UI UX Designer | Graphic Designer | PESU CSE '25</h3>
 
