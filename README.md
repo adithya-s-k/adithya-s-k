@@ -82,7 +82,7 @@
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <details>
-<summary><h1>My Skills</h1></summary>
+<summary><h2>My Skills</h2></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -429,12 +429,37 @@
 </td></tr></table>
 </details>
 
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 <table>
-  <tr><h1 align="center">My Projects</h1></tr>
+  <tr><h2 align="center">My Projects</h2></tr>
   <tr>
-    <td width="100%">
+  <td>
     <details>
       <summary><h2 align="center">Websites</h2></summary>
+      <table>
+        <tr>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
+        </tr>
+      </table>
+    </details>
+  </td>
+  <td>
+    <details>
+      <summary><h2 align="center">Open Source</h2></summary>
+      <table>
+        <tr>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
+        </tr>
+      </table>
+    </details>
+  </td>
+  <td>
+    <details>
+      <summary><h2 align="center">Computer Vision</h2></summary>
       <table>
         <tr>
           <td>www.shunyapes.com</td>
