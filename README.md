@@ -59,12 +59,11 @@
 <div>
 <h1 align="center">GitHub Statistics 📃</h1>
 <!-- trophy stats -->
-  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
-
+  <div>
+    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
+  </div>  
   <br/>
-
   <!-- contribution graph -->
-
   <div>
   <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
@@ -493,23 +492,29 @@
     </details>
   </div>
 
-  <div>
-    <details>
-      <summary><h2 align="center">Open Source</h2></summary>
-      <div>
-      <table align="center">
-        <tr>
-          <td>www.shunyapes.com</td>
-        </tr>
-      </table>
-    </div>
-    </details>
-  </div>
-
 </div>
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Holopin Badge div -->
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
+<div align="center">
+  <details>
+    <summary><h1 align="center">Hackathons & Open Source</h1></summary>
+    <table>
+      <tr>
+        <td valign="top"><h2 align="center">No.</h2></td>
+        <td valign="top" width="50%">
+          <h2 align="center">Hackathons</h2>
+        </td>
+        <td valign="top" width="50%">
+          <h2 align="center">Certification</h2>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <h1 align="center">Badges and Certificates</h1>
