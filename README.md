@@ -458,15 +458,15 @@
       <div>
       <table align="center">
         <tr>
-          <td><a href="https://www.shunyapes.com"><img src="./assets/shunya.webp" alt="shunya website"></a></td>
-          <td><a href="https://www.aikyapes.com"><img src="./assets/aikya.webp" alt="aikya website"></a></td>
+          <td><a href="https://www.shunyapes.com"><img src="https://user-images.githubusercontent.com/27956426/210171273-3ad4c6d8-8057-41a0-ad7c-0911da5274fd.png" alt="shunya website"></a></td>
+          <td><a href="https://www.aikyapes.com"><img src="https://user-images.githubusercontent.com/27956426/210171332-9bbd78f5-0768-4b57-adab-364c0315c5ac.png" alt="aikya website"></a></td>
         </tr>
         <tr>
-          <td><a href="http://samarpana.pes.edu"><img src="./assets/samarpana.webp" alt="samarpana website"></a></td>
-          <td><a href="https://pcsports.in"><img src="./assets/pcsports.webp" alt="pcsports website"></a></td>
+          <td><a href="http://samarpana.pes.edu"><img src="https://user-images.githubusercontent.com/27956426/210171346-313fac1b-72ab-4f20-afcd-15636ca0dcf8.png" alt="samarpana website"></a></td>
+          <td><a href="https://pcsports.in"><img src="https://user-images.githubusercontent.com/27956426/210171358-d3cc3eed-1b04-47e8-a1a5-20e1f27a4efd.png" alt="pcsports website"></a></td>
         </tr>
         <tr>
-          <td><a href="https://enable-theupcycling-company.vercel.app/"><img src="./assets/enable.webp" alt="enable website"></a></td>
+          <td><a href="https://enable-theupcycling-company.vercel.app/"><img src="https://user-images.githubusercontent.com/27956426/210171367-111c6fd4-f1d9-4849-8131-cd33c6ecdd6e.png" alt="enable website"></a></td>
         </tr>
       </table>
     </div>
