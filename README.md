@@ -533,8 +533,21 @@
 
 [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
 
-<a href=""><img align="center" width="30%" src= 'https://user-images.githubusercontent.com/27956426/210182391-fe0a9299-6b4a-4c92-a0e1-f0d0fae5d636.gif'/></a>
-  
+  <!--   ![2022-10](https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif)
+![2022-09](https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif) -->
+<!-- <a href="https://leetcode.com/adithya_s_k/">
+<div align="center">
+ -->
+<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183568-4aed1297-bb20-49c5-9a43-1be161e7807f.gif">
+<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif">
+<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif">
+<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif">
+
+<!-- </div>
+</a> -->
+
+  <!-- ![2022-annual-100](https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif) -->
+
 </div>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
