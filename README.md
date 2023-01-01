@@ -33,7 +33,7 @@
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
-    <a href="https://linkedin.com/in/rishavanand" target="_blank">
+    <a href="https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <!-- Twitter link -->
