@@ -430,13 +430,14 @@
 </details>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
 <table>
   <tr><h2 align="center">My Projects</h2></tr>
   <tr>
-  <td>
+  <td width="100%">
     <details>
       <summary><h2 align="center">Websites</h2></summary>
-      <table>
+      <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
@@ -445,10 +446,14 @@
       </table>
     </details>
   </td>
-  <td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td width="100%">
     <details>
       <summary><h2 align="center">Open Source</h2></summary>
-      <table>
+      <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
@@ -457,10 +462,14 @@
       </table>
     </details>
   </td>
-  <td>
+  <td></td>
+  </tr>
+
+  <tr>
+  <td width="100%">
     <details>
       <summary><h2 align="center">Computer Vision</h2></summary>
-      <table>
+      <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
@@ -469,7 +478,9 @@
       </table>
     </details>
   </td>
+  <td></td>
   </tr>
+
 </table>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
