@@ -94,7 +94,9 @@
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Skill Div -->
-<details>
+<div align="center">
+
+  <details>
 <summary><h1 align="center">My Skills</h1></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
@@ -442,6 +444,7 @@
 </td></tr></table>
 </details>
 
+</div>
 <!-- ------------------------------------------------------------------------------------ -->
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
@@ -458,10 +461,35 @@
         <tr>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
-          <td>www.shunyapes.com</td>
         </tr>
       </table>
     </div>
+    </details>
+  </div>
+
+  <div>
+    <details>
+      <summary><h2 align="center">Computer Vision | AI ML </h2></summary>
+      <div>
+      <table align="center">
+        <tr>
+          <td>www.shunyapes.com</td>
+        </tr>
+      </div>
+      </table>
+    </details>
+  </div>
+
+  <div>
+    <details>
+      <summary><h2 align="center">Iot | Robotics | Drones</h2></summary>
+      <div>
+      <table align="center">
+        <tr>
+          <td>www.shunyapes.com</td>
+        </tr>
+      </div>
+      </table>
     </details>
   </div>
 
@@ -472,28 +500,10 @@
       <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
-          <td>www.shunyapes.com</td>
-          <td>www.shunyapes.com</td>
         </tr>
       </table>
     </div>
     </details>
-  </div>
-
-  <div>
-    <details>
-      <summary><h2 align="center">Computer Vision</h2></summary>
-      
-      <table align="center">
-        <tr>
-          <td>www.shunyapes.com</td>
-          <td>www.shunyapes.com</td>
-          <td>www.shunyapes.com</td>
-        </tr>
-
-      </table>
-    </details>
-
   </div>
 
 </div>
@@ -502,7 +512,13 @@
 <!-- Holopin Badge div -->
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+<h1 align="center">Badges and Certificates</h1>
+
+<div>
+
 [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
+
+</div>
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <p align="center">
