@@ -430,11 +430,10 @@
 </details>
 
 <table>
-  <tr><td><h1 align="center">My Projects</h1></td></tr>
+  <tr><h1 align="center">My Projects</h1></tr>
   <tr>
-    <td>
     <details>
-      <summary><h2 align="center">Websites</h2></summary>
+      <summary><h2>Websites</h2></summary>
       <table>
         <tr>
           <td>www.shunyapes.com</td>
@@ -443,7 +442,6 @@
         </tr>
       </table>
     </details>
-  </td>
   </tr>
 </table>
 
