@@ -8,6 +8,9 @@
 
 </div>
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Introduction Div -->
+
 <div>
 
 <a href=""></a><img align="right" src="./assets/interest_dark.png" width="50%" alt=""></a>
@@ -19,6 +22,8 @@
 
 <br/>
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Connect with me div -->
 <div>
   <h1 align="center">Connect with me</h1>
 
@@ -48,41 +53,49 @@
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Github stats div -->
+
+<div>
 <h1 align="center">GitHub Statistics 📃</h1>
 <!-- trophy stats -->
-<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
+  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
 
-<br/>
+  <br/>
 
-<!-- contribution graph -->
+  <!-- contribution graph -->
 
-<div>
-<a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
-</a>
+  <div>
+  <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
+  </a>
+  </div>
+
+  <!-- combined stats -->
+  <br/>
+
+  <div align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
+  </div>
+
+  <br/>
+
+  <div>
+    <img src="https://github.com/adithya-s-k/adithya-s-k/blob/output/github-contribution-grid-snake.gif" alt="contribution green map"/>
+  </div>
+  <!-- <div align="center">
+    <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
+  </div> -->
 </div>
-
-<!-- combined stats -->
-
-<br/>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
-<div>
-
-<br/>
-
-<img src="https://github.com/adithya-s-k/adithya-s-k/blob/output/github-contribution-grid-snake.gif" alt="contribution green map"/>
-
-<!-- <div align="center">
-  <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
-</div> -->
+<!-- ------------------------------------------------------------------------------------ -->
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- My Skill Div -->
 <details>
-<summary><h2>My Skills</h2></summary>
+<summary><h2 align="center">My Skills</h2></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -429,14 +442,18 @@
 </td></tr></table>
 </details>
 
+<!-- ------------------------------------------------------------------------------------ -->
+
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
-<table width="100%">
-  <tr><h2 align="center">My Projects</h2></tr>
-  <tr>
-  <td width="100%">
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- My Project Div -->
+<div>
+  <h1 align="center">My Projects</h1>
+  <div>
     <details>
       <summary><h2 align="center">Websites</h2></summary>
+      <div>
       <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
@@ -444,50 +461,48 @@
           <td>www.shunyapes.com</td>
         </tr>
       </table>
+    </div>
     </details>
-  </td>
-  <td></td>
-  </tr>
+  </div>
 
-  <tr>
-  <td width="100%">
+  <div>
     <details>
       <summary><h2 align="center">Open Source</h2></summary>
+      <div>
       <table align="center">
         <tr>
-          <td>
-            <div>
-              
-              [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
-              </div>
-          </td>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
+          <td>www.shunyapes.com</td>
         </tr>
       </table>
+    </div>
     </details>
-  </td>
-  <td></td>
-  </tr>
+  </div>
 
-  <tr>
-  <td width="100%">
+  <div>
     <details>
       <summary><h2 align="center">Computer Vision</h2></summary>
+      
       <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
           <td>www.shunyapes.com</td>
         </tr>
+
       </table>
     </details>
-  </td>
-  <td></td>
-  </tr>
 
-</table>
+  </div>
 
+</div>
+
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Holopin Badge div -->
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
+[![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <p align="center">
@@ -496,6 +511,8 @@
 
 <br/>
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- View count div -->
 <div align="center">
 <img width="200px" src="https://komarev.com/ghpvc/?username=adithya-s-k&&style=for-the-badge" align="center" />
 </div>
