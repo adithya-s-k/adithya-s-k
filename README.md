@@ -95,7 +95,7 @@
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Skill Div -->
 <details>
-<summary><h2 align="center">My Skills</h2></summary>
+<summary><h1 align="center">My Skills</h1></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -448,7 +448,7 @@
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Project Div -->
-<div>
+<div align="center">
   <h1 align="center">My Projects</h1>
   <div>
     <details>
