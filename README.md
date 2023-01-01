@@ -457,6 +457,7 @@
         <tr>
           <td>
             <div>
+              
               [![An image of @savatar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savatar)](https://holopin.io/@savatar)
               </div>
           </td>
@@ -470,7 +471,7 @@
   <tr>
   <td width="100%">
     <details>
-      <summary><h2 align="center"></h2></summary>
+      <summary><h2 align="center">Computer Vision</h2></summary>
       <table align="center">
         <tr>
           <td>www.shunyapes.com</td>
