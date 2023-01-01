@@ -16,7 +16,7 @@
 
 <!-- ![interest_dark](https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png) -->
 
-<a href="https://leetcode.com/adithya_s_k/"><img align="right" width="30%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
+<a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 
 - My interests and passions lie in various areas of technology, including web development, machine learning, cloud computing, IoT, robotics, and drones. I am always eager to learn and explore new technologies and their potential to solve real-world problems.
 - As a programmer, I strive for consistency and always aim to improve my skills through continuous learning and practice. I consider myself to be a multitasker and am able to effectively handle multiple tasks and responsibilities at the same time. I believe that technology and code have the power to make a positive impact on the world and I am driven by the goal of using my skills and knowledge to find unique and innovative solutions to everyday problems.
@@ -475,7 +475,7 @@
     </div>
     </details>
   </div>
-
+<hr>
   <div>
     <details>
       <summary><h2 align="center">Computer Vision | AI ML </h2></summary>
@@ -488,7 +488,7 @@
       </table>
     </details>
   </div>
-
+<hr>
   <div>
     <details>
       <summary><h2 align="center">Iot | Robotics | Drones</h2></summary>
@@ -525,7 +525,6 @@
   </details>
 </div>
 
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <h1 align="center">Badges and Certificates</h1>
 
@@ -538,10 +537,10 @@
 <!-- <a href="https://leetcode.com/adithya_s_k/">
 <div align="center">
  -->
-<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183568-4aed1297-bb20-49c5-9a43-1be161e7807f.gif">
-<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif">
-<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif">
-<img width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif">
+<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183568-4aed1297-bb20-49c5-9a43-1be161e7807f.gif">
+<img align="left" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183474-b812ebf7-3f44-4f1c-b894-d5a03f0689d6.gif">
+<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183468-be8097b7-d585-46ba-933a-afbe01095ed9.gif">
+<img align="right" width="120" alt="dcc-2022-8" src="https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif">
 
 <!-- </div>
 </a> -->
@@ -550,11 +549,13 @@
 
 </div>
 
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
+
+<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 
 <br/>
 <!-- ------------------------------------------------------------------------------------ -->
