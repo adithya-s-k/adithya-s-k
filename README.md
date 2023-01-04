@@ -11,7 +11,6 @@
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Introduction Div -->
 
-
 <!-- <img align="right" width="40%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /> -->
 
 <!-- ![interest_dark](https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png) -->
@@ -520,11 +519,265 @@
         <td valign="top" width="50%">
           <h2 align="center">Certification</h2>
         </td>
+        <td valign="top" width="50%">
+          <h2 align="center">Description</h2>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">1</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Hallothon 2021</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">2</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Amithon</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">3</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Techonphilia</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">4</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">WAccinge</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">5</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">DotSlash</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">6</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Develop For Her</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">7</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Hashcode 2021</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">8</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">DU Hack</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">9</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Smart India Hackathon(SIH)</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">10</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Error 404</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">11</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Hack4Soc</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">12</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Major Project Selection</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">13</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">IEEE Pune Chapter Hackathon</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">14</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Aikya Haul It Away</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">15</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Aikya Haul It Away</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">16</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">HackStack</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">17</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Health Hack(Weal)</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">18</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Silicon Rush</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">19</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">LOC Appex</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">20</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Centurition(MSRIT)</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><h5 align="center">21</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Hallothon</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
       </tr>
     </table>
   </details>
 </div>
-
 
 <h1 align="center">Badges and Certificates</h1>
 
@@ -548,8 +801,6 @@
   <!-- ![2022-annual-100](https://user-images.githubusercontent.com/27956426/210183493-1db760aa-49b5-4185-a76e-e8d944643723.gif) -->
 
 </div>
-
-
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
