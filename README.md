@@ -514,7 +514,54 @@
         <tr>
           <td>
             <div>
-              <h3>Shakthi</h3>
+              <a href="https://youtu.be/kS_2ZGTF39I"><h3 align="center">Shakthi</h3></a>
+              <div>
+                [Video Link](https://youtu.be/kS_2ZGTF39I)
+                <h4>Problem Statment</h4>
+With the increase in the tariff, monsoon fluctuations, and water scarcity, every good civilian would like to optimize the energy consumption at his residence. As expected, saving energy has an equal effect as compared to putting up Solar panels and producing alternate energy. Thus one Unit of Energy saved would be more efficient and more economical than generating one unit of Energy.
+
+This product is essentially a smart plug that connects between your appliance and electrical outlet and provides the following features.
+- Round-the clock Energy monitoring
+- Alerts on reaching a monthly, weekly set-point
+- Ability to control the functioning of the devices connected
+- Scheduling of ON/OFF of devices and help become more productive
+- Access from anywhere daily, weekly and monthly report
+
+Other features
+Elegant design
+- Ergonomically designed product for Home use
+- Universal socket for easy connectivity
+- Unique body design for plug-in and plug-out operations
+- High grade electrically insulated design
+
+Energy Monitoring
+- Monitor Energy consumption round the clock
+- Measures Actual Energy usage along with reactive/apparent usage
+- Tamper-proof energy monitoring with ability to store Energy usage up-to 3 months
+- Handles all variety of Loads and measures Energy with high accuracy.
+
+Planning and Scheduling
+- Plan and schedule Electrical equipment based on date, time and duration.
+- Support recurring patters of On/Off of Electrical equipment
+- Condition Based Rules to turn On/Off of Electrical equipment
+- Support IFTTT (coming soon)
+
+Control – Remote or Local
+- Switch ON-OFF Electrical equipment from anywhere and from any device
+- Shows latest Control status of Device
+- Condition Based Rules to turn On/Off of Electrical equipment
+- Support IFTTT (coming soon)
+              </div>
+              <div>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="100%" src="https://user-images.githubusercontent.com/27956426/210619032-83eb9302-b0b6-4fbf-b856-dacb30a48791.PNG" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619509-bae7ec63-03e3-4bf6-a003-b905ac48aed1.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619518-eb4f4d96-61a4-418f-b9db-43c8c96ecb5e.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619519-a6609e8b-f4e6-4351-b92d-0ce5aa0b4fd6.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619528-c4ad32ff-9e67-40b2-96f8-4e5b21d02804.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619530-5717c06b-b817-4b1a-8bb1-e6818534cc59.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619533-c8ef13c7-e0b1-4ce9-8c7e-87d15e906db0.jpeg" alt="Shakthi"></a>
+                <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619515-03145dec-08fc-48f4-91d6-1fe62636084c.jpeg" alt="Shakthi"></a>
+              </div>
             </div>
           </td>
         </tr>
