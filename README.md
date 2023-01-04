@@ -481,7 +481,25 @@
       <div>
       <table align="center">
         <tr>
-          <td>www.shunyapes.com</td>
+          <td>
+            <div>
+              <h3>AIWA(AI Assisted Workout Assistent)</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>EUDA(Emotion Detection)</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>Attention Detection</h3>
+            </div>
+          </td>
         </tr>
       </div>
       </table>
@@ -494,7 +512,46 @@
       <div>
       <table align="center">
         <tr>
-          <td>www.shunyapes.com</td>
+          <td>
+            <div>
+              <h3>Shakthi</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>Plantic</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>ArgiBot</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>Phoenix VTOL</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>HexaCopter Banner Drone</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>QuadCopter with Servaillence</h3>
+            </div>
+          </td>
         </tr>
       </div>
       </table>
