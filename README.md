@@ -90,7 +90,7 @@
 </div>
 <!-- ------------------------------------------------------------------------------------ -->
 
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+<!-- <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/> -->
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Skill Div -->
