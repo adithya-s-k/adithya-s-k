@@ -734,7 +734,9 @@ Control – Remote or Local
           <h5 align="center">DU Hack</h5>
         </td>
         <td valign="top" width="50%">
-          <h5 align="center"></h5>
+          <h5 align="center">
+            <a href="https://duhacks.tech/"><img src="https://user-images.githubusercontent.com/27956426/213263046-a3412073-4864-48c0-8ba0-26b3bd391eb0.png" alt="DU Hack certificate"></a>
+          </h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
