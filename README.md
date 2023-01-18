@@ -735,7 +735,7 @@ Control – Remote or Local
         </td>
         <td valign="top" width="50%">
           <h5 align="center">
-            <a href="https://duhacks.tech/"><img src="https://user-images.githubusercontent.com/27956426/213263046-a3412073-4864-48c0-8ba0-26b3bd391eb0.png" alt="DU Hack certificate"></a>
+            <a href="https://duhacks.tech/"><img width="200px" src="https://user-images.githubusercontent.com/27956426/213263046-a3412073-4864-48c0-8ba0-26b3bd391eb0.png" alt="DU Hack certificate"></a>
           </h5>
         </td>
         <td valign="top" width="50%">
@@ -748,7 +748,9 @@ Control – Remote or Local
           <h5 align="center">Smart India Hackathon(SIH)</h5>
         </td>
         <td valign="top" width="50%">
-          <h5 align="center"></h5>
+          <h5 align="center">
+            <a href="https://www.sih.gov.in/"><img width="100px" src="https://user-images.githubusercontent.com/27956426/213264078-0d07ff4a-33c2-41fa-ac08-da2e9c2ab2b9.jpg" alt="SIH certificate"></a>
+          </h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -808,7 +810,9 @@ Control – Remote or Local
           <h5 align="center">Aikya Haul It Away</h5>
         </td>
         <td valign="top" width="50%">
-          <h5 align="center"></h5>
+          <h5 align="center">
+            <a href=""><img width="200px" src="https://user-images.githubusercontent.com/27956426/213264455-ccbdb9cb-4b6f-4b8f-9b22-05cdd4bbe714.png" alt="Aikya Haul it away certificate"></a>
+          </h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
