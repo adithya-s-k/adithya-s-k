@@ -52,7 +52,7 @@
   </div>
 </div>
 
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
+
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Github stats div -->
@@ -81,9 +81,7 @@
 
   <br/>
 
-  <div>
-    <img src="https://github.com/adithya-s-k/adithya-s-k/blob/output/github-contribution-grid-snake.gif" alt="contribution green map"/>
-  </div>
+  
   <!-- <div align="center">
     <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
   </div> -->
@@ -926,7 +924,7 @@ Control – Remote or Local
 </div>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="70"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
