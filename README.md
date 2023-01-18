@@ -501,6 +501,20 @@
             </div>
           </td>
         </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>Chrome Dino Game</h3>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <h3>Busted</h3>
+            </div>
+          </td>
+        </tr>
       </div>
       </table>
     </details>
