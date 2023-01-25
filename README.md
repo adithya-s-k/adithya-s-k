@@ -52,8 +52,6 @@
   </div>
 </div>
 
-
-
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Github stats div -->
 
@@ -81,7 +79,6 @@
 
   <br/>
 
-  
   <!-- <div align="center">
     <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
   </div> -->
@@ -528,8 +525,11 @@
             <div>
               <a href="https://youtu.be/kS_2ZGTF39I"><h3 align="center">Shakthi</h3></a>
               <div>
-                [Video Link](https://youtu.be/kS_2ZGTF39I)
+        <div>
+          <details>
+            <summary><h6 align="center">See details</h6></summary>
                 <h4>Problem Statment</h4>
+
 With the increase in the tariff, monsoon fluctuations, and water scarcity, every good civilian would like to optimize the energy consumption at his residence. As expected, saving energy has an equal effect as compared to putting up Solar panels and producing alternate energy. Thus one Unit of Energy saved would be more efficient and more economical than generating one unit of Energy.
 
 This product is essentially a smart plug that connects between your appliance and electrical outlet and provides the following features.
@@ -568,7 +568,6 @@ Control – Remote or Local
 - Shows latest Control status of Device
 - Condition Based Rules to turn On/Off of Electrical equipment
 - Support IFTTT (coming soon)
-  </div>
   <div>
   <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="100%" src="https://user-images.githubusercontent.com/27956426/210619032-83eb9302-b0b6-4fbf-b856-dacb30a48791.PNG" alt="Shakthi"></a>
   <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619509-bae7ec63-03e3-4bf6-a003-b905ac48aed1.jpeg" alt="Shakthi"></a>
@@ -579,6 +578,11 @@ Control – Remote or Local
   <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619533-c8ef13c7-e0b1-4ce9-8c7e-87d15e906db0.jpeg" alt="Shakthi"></a>
   <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619515-03145dec-08fc-48f4-91d6-1fe62636084c.jpeg" alt="Shakthi"></a>
   </div>
+</div>
+
+</details>
+  </div>
+  
   </div>
   </td>
   </tr>
