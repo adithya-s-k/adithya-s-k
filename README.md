@@ -107,34 +107,34 @@
 
 <tr height="60">
 <td>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" height="40" />
 </a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" />
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material UI" height="40" />
 </a>  
 </td>
 <td>
@@ -142,57 +142,57 @@
 </a> 
 </td>
 <td>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
-</a>  
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
-</a>  
-</td>
-<td>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
-</a>
-</td>
-<td>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
-</a>  
-</td>
-<td>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />
-</a>  
-</td>
-<td>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" />
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS" height="40" />
 </a>  
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" />
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" />
-</a>  
-</td>
-<td>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" height="40" />
 </a>
 </td>
 <td>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" />
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" height="40" />
 </a>  
 </td>
 <td>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" height="40" />
+</a>  
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jquery&theme=dark" alt="jQuery" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" height="40" />
+</a>
+</td>
+<td>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="40" />
+</a>  
+</td>
+<td>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" height="40" />
 </a>
 </td>
 
