@@ -122,13 +122,13 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
 </a>  
 </td>
-</tr>
-
-<tr>
 <td>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
 </a>
 </td>
+</tr>
+
+
 <td>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
 </a>  
@@ -142,7 +142,7 @@
 </a> 
 </td>
 
-</tr>
+
 
 <tr>
 <td>
