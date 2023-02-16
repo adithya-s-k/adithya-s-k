@@ -149,7 +149,6 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" />
 </a>  
 </td>
-<td>
 </tr>
 
 <tr>
