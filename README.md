@@ -41,6 +41,8 @@
     <a href="https://twitter.com/adithya_s_k" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
+    <a>
+    </a>
     <!-- Dev link -->
     <a href="" target="_blank">
       <img src=https://img.shields.io/badge/dev.to-%232E3440.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -479,6 +481,11 @@
           <td>
             <div>
               <h3>AIWA(AI Assisted Workout Assistent)</h3>
+              <p>
+                developed an AI workout assistant using OpenCV and Mediapipe, with the goal of helping individuals improve their form and technique during workouts. The AI workout assistant is designed to detect and analyze a person's movements in real-time using computer vision and machine learning techniques.
+The system uses a webcam or camera to capture the person's movements during the workout and then utilizes OpenCV to detect and track the position and orientation of various body parts. The Mediapipe framework is used to apply machine learning algorithms to estimate the person's pose, recognize their movements, and provide feedback on their form and technique.
+The AI workout assistant is capable of detecting a variety of common exercises, including squats, lunges, push-ups, and more. During the workout, the system provides real-time feedback to the user, including visual and audio cues, to help them improve their form and technique. The system also tracks progress over time, providing users with valuable insights into their performance and improvement.
+              </p>
             </div>
           </td>
         </tr>
@@ -486,6 +493,11 @@
           <td>
             <div>
               <h3>EUDA(Emotion Detection)</h3>
+              <p>
+                developed an emotion detector using OpenCV and Mediapipe, with the goal of helping individuals better understand and manage their emotions. The emotion detector is designed to analyze a person's facial expressions in real-time using computer vision and machine learning techniques.
+The system uses a webcam or camera to capture the person's facial expressions and then utilizes OpenCV to detect and track various facial landmarks, such as the eyes, nose, mouth, and eyebrows. The Mediapipe framework is used to apply machine learning algorithms to these facial landmarks to estimate the person's emotions and provide feedback in real-time.
+The emotion detector is capable of detecting a variety of emotions, including happiness, sadness, anger, surprise, and more. During use, the system provides real-time feedback to the user, including a visual representation of their emotional state and suggestions for ways to manage their emotions.
+              </p>
             </div>
           </td>
         </tr>
@@ -493,6 +505,11 @@
           <td>
             <div>
               <h3>Attention Detection</h3>
+              <p>
+                developed an attention detector using OpenCV and Mediapipe, with the goal of helping individuals improve their focus and productivity. The attention detector is designed to track a person's eye movements in real-time using computer vision and machine learning techniques.
+The system uses a webcam or camera to capture the person's eye movements and then utilizes OpenCV to detect and track the position and orientation of their eyes. The Mediapipe framework is used to apply machine learning algorithms to estimate whether the person is looking at the screen or elsewhere.
+The attention detector is capable of detecting a variety of eye movements, including blinks, saccades, and fixations. During use, the system provides real-time feedback to the user, including a visual representation of their attention and suggestions for ways to improve their focus.
+              </p>
             </div>
           </td>
         </tr>
@@ -500,6 +517,11 @@
           <td>
             <div>
               <h3>Chrome Dino Game</h3>
+              <p>
+                developed a body-controlled Chrome Dino Game using OpenCV and Mediapipe, with the goal of creating an interactive and engaging gaming experience. The Chrome Dino Game is a classic game that is available on the Google Chrome browser when there is no internet connection available.
+The system uses a webcam or camera to capture the person's body movements and then utilizes OpenCV to detect and track the position and orientation of various body parts, such as the head and hands. The Mediapipe framework is used to apply machine learning algorithms to estimate the person's movements and translate them into game actions.
+The body-controlled Chrome Dino Game is capable of detecting a variety of body movements, such as jumping, crouching, and moving left or right. During the game, the system provides real-time feedback to the user, allowing them to control the game using their body movements.
+              </p>
             </div>
           </td>
         </tr>
@@ -507,6 +529,11 @@
           <td>
             <div>
               <h3>Busted</h3>
+              <p>
+                developed a motion detection security system using OpenCV and Mediapipe, with the goal of creating a simple and effective way to monitor and secure properties. The system is designed to detect motion using computer vision and machine learning techniques, and automatically start video recording and send an alert to the owner via email.
+                The system uses a webcam or camera to capture the area to be monitored and then utilizes OpenCV to detect any motion in the scene. The Mediapipe framework is used to apply machine learning algorithms to distinguish between real motion and false alarms, such as changes in lighting or shadows.
+                When motion is detected, the system automatically starts recording video and sends an email alert to the owner with the recorded video as an attachment. The system can also be configured to trigger an alarm or alert a security company if required.
+              </p>
             </div>
           </td>
         </tr>
@@ -590,6 +617,24 @@ Control – Remote or Local
   <td>
   <div>
   <h3>Plantic</h3>
+  <p>
+    Problem Statement: Limited Access to Real-time Plant Health Monitoring for Indoor Gardeners and Farmers
+
+Indoor gardeners and farmers face the challenge of monitoring their plants' health in real-time, which is essential for ensuring optimal growth and yield. Traditional methods of monitoring plant health, such as manual observation or using bulky and expensive equipment, are often labor-intensive and time-consuming, making it difficult for indoor gardeners and small-scale farmers to keep track of their plants' health.
+
+Additionally, there is a lack of user-friendly and affordable solutions available in the market for plant health monitoring. Many of the available solutions are complex and require specialized knowledge to operate, making them inaccessible to the average indoor gardener or small-scale farmer.
+
+Therefore, there is a need for a solution that can provide real-time plant health monitoring that is both affordable and user-friendly. Such a solution must be easy to install, require minimal maintenance, and provide accurate and timely data on various physical conditions required for optimal plant growth. This solution would enable indoor gardeners and small-scale farmers to make informed decisions about their plant care and ensure optimal growth and yield, leading to improved food security and sustainable agricultural practices.
+  </p>
+  <p>
+    Plantic is an innovative device designed to help home gardeners and farmers keep track of their plants' health. Plantic is a small sensor unit that can be inserted next to the plant, and it is capable of tracking various parameters such as soil moisture, humidity, temperature, soil temperature, sunlight, and soil fertility. This device is highly efficient, making it ideal for both home gardening and outdoor agriculture use.
+
+The data collected by Plantic is transmitted wirelessly to a user-friendly app that displays the information in colorful charts. The app provides a visual representation of the data collected by Plantic, making it easy for users to quickly assess their plant's health. The app can be accessed from a mobile device, making it convenient for users to monitor their plants' health on the go.
+
+Plantic is also designed to be highly durable and long-lasting. The device is built using high-quality materials and is capable of withstanding harsh outdoor environments. Plantic is also very easy to install and requires minimal maintenance, making it ideal for busy home gardeners and farmers.
+
+Overall, Plantic offers a powerful and efficient solution for plant health monitoring. With its advanced sensors and user-friendly app, the device can help users keep track of their plants' health and take the necessary actions to ensure optimal growth and yield. Whether used for home gardening or outdoor agriculture, Plantic is an essential tool for any plant lover or farmer looking to optimize their plant's health.
+  </p>
   </div>
   </td>
   </tr>
@@ -597,6 +642,24 @@ Control – Remote or Local
   <td>
   <div>
   <h3>ArgiBot</h3>
+  <p>
+    Problem Statement: Lack of Efficient and Automated Solutions for Crop Recommendation and Plant Growth Optimization
+
+The current process of crop selection and plant growth optimization for farmers involves manual observation and analysis of various physical conditions in the field. This process is time-consuming and prone to errors, which can result in lower yields and decreased profitability for farmers. Additionally, traditional methods of monitoring physical conditions such as soil moisture, temperature, and humidity are often labor-intensive and require frequent human intervention.
+
+Furthermore, there is a lack of efficient and automated solutions available for farmers to help with crop recommendation and plant growth optimization. The current solutions available in the market are often costly, complex, and difficult to operate, making them unsuitable for small-scale farmers or home gardeners.
+
+Therefore, there is a need for an innovative solution that can optimize plant growth and recommend suitable crops for a particular field in an efficient and automated manner. Such a solution must be easy to use, affordable, and capable of providing accurate and real-time data on the physical conditions required for optimal plant growth. This solution would enable farmers to make informed decisions about crop selection and optimize plant growth, leading to higher yields and increased profitability.
+  </p>
+  <p>
+    The Agriculture Bot is an innovative device designed to optimize plant growth and recommend suitable crops for a particular field. It is built using an Arduino microcontroller for interfacing with the sensors and an RPi for data processing and Wi-Fi connectivity. The device has a strong belt drive chassis that allows it to navigate rough terrains with ease.
+
+The Agriculture Bot moves around the field in a fixed path and collects data on the physical conditions of the soil, temperature, humidity, and other parameters using its sensors. This data is then processed using machine learning algorithms to determine the best suitable crop for the field. The device also provides recommendations on the physical conditions required for optimal plant growth, including the required level of irrigation, nutrients, and other factors.
+
+The device is highly portable and can be easily deployed to any field, making it ideal for small and large-scale farmers alike. The data collected by the Agriculture Bot can be stored locally on the device or transmitted to a cloud-based platform for further analysis and visualization.
+
+Overall, the Agriculture Bot offers a powerful and efficient solution for crop recommendation and plant growth optimization. With its advanced sensors, machine learning algorithms, and robust chassis, the device can help farmers make informed decisions about crop selection and optimize plant growth, ultimately leading to higher yields and increased profitability.
+  </p>
   </div>
   </td>
   </tr>
