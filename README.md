@@ -150,10 +150,10 @@
 </a>  
 </td>
 <td>
-
 </tr>
 
 <tr>
+<td>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
 </a>  
 </td>
@@ -346,13 +346,11 @@
   <td>
     <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" /></a>  
   </td>
-  <td>
 </tr>
 <tr>
+  <td>
     <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="40" /></a>  
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" /></a>  
   </td>
