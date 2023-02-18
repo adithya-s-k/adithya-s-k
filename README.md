@@ -314,7 +314,7 @@
 </tr>
 <tr>
       <td>
-        <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=dontnet&theme=dark" alt=".NET" height="40" /></a>  
+        <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" height="40" /></a>  
       </td>
       <td>
         <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" height="40" /></a>  
@@ -413,7 +413,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ngnix&theme=dark" alt="Nginx" height="40" /></a>  
+        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" height="40" /></a>  
       </td>
       <td>
         <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>  
