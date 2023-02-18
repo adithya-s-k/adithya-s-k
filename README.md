@@ -297,30 +297,30 @@
   <table>
     <tr>
       <td>
-        <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>  
+        <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" height="40" /></a>  
       </td>
       <td>
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></a>  
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" height="40" /></a>  
       </td>
       <td>
-        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>  
+        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" height="40" /></a>  
       </td>
       <td>
-        <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="40" /></a>  
+        <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=rails&theme=dark" alt="Ruby on Rails" height="40" /></a>  
       </td>
       <td>
-        <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="40" /></a>  
+        <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" height="40" /></a>  
       </td>
 </tr>
 <tr>
       <td>
-        <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" /></a>  
+        <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=dontnet&theme=dark" alt=".NET" height="40" /></a>  
       </td>
       <td>
-        <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>  
+        <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" height="40" /></a>  
       </td>
       <td>
-        <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" /></a>  
+        <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" height="40" /></a>  
       </td>
   <td>
       <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a>  
@@ -331,10 +331,10 @@
 </tr>
 <tr>
     <td>
-      <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="40" /></a>  
+      <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gatsby&theme=dark" alt="Gatsby" height="40" /></a>  
     </td>
     <td>
-      <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="40" /></a>  
+      <a href=" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=d3&theme=dark" alt="Dreamweaver " height="40" /></a>  
     </td>
   <td>
     <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
@@ -348,13 +348,13 @@
 </tr>
 <tr>
   <td>
-    <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="40" /></a>  
+    <a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=deno&theme=dark" alt="Deno" height="40" /></a>  
   </td>
   <td>
-    <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" /></a>  
+    <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=astro&theme=dark" alt=".Net Core" height="40" /></a>  
   </td>
   <td>
-    <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="40" /></a>  
+    <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" height="40" /></a>  
   </td>
 </tr>
 </table>
@@ -366,13 +366,13 @@
   <table>
     <tr>
       <td>
-      <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="40" /></a>  
+      <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" height="40" /></a>  
     </td>
     <td>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" height="40" /></a>  
 </td>
 <td>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="40" /></a>  
 </td>
 </tr>
 </table>
@@ -384,10 +384,10 @@
   <table>
     <tr>
       <td>
-      <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" /></a>  
+      <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="40" /></a>  
     </td>
     <td>
-      <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="40" /></a>  
+      <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="pytorch" height="40" /></a>  
     </td>
     </tr>
 </table>
@@ -399,21 +399,21 @@
   <table>
     <tr>
       <td>
-        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a>  
+        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="GCP" height="40" /></a>  
       </td>
       <td>
         <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="40" /></a>  
       </td>
       <td>
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
+        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" height="40" /></a>  
       </td>
       <td>
-        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" /></a>  
+        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" height="40" /></a>  
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>  
+        <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ngnix&theme=dark" alt="Nginx" height="40" /></a>  
       </td>
       <td>
         <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>  
@@ -422,7 +422,7 @@
         <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" /></a>  
       </td>
       <td>
-        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>  
+        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" height="40" /></a>  
       </td>
     </tr>
 </table>
