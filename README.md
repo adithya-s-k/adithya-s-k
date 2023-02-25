@@ -878,7 +878,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">15</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">Aikya Haul It Away</h5>
+          <h5 align="center">HackStack</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -890,7 +890,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">16</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">HackStack</h5>
+          <h5 align="center">Health Hack(Weal)</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -902,7 +902,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">17</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">Health Hack(Weal)</h5>
+          <h5 align="center">Silicon Rush</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -914,7 +914,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">18</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">Silicon Rush</h5>
+          <h5 align="center">LOC Appex</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -926,7 +926,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">19</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">LOC Appex</h5>
+          <h5 align="center">Centurition(MSRIT)</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -938,7 +938,7 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">20</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">Centurition(MSRIT)</h5>
+          <h5 align="center">Hallothon</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
@@ -950,7 +950,18 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
       <tr>
         <td valign="top"><h5 align="center">21</h5></td>
         <td valign="top" width="50%">
-          <h5 align="center">Hallothon</h5>
+          <h5 align="center">RV AI Hackathon</h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+        <td valign="top" width="50%">
+          <h5 align="center"></h5>
+        </td>
+      <tr>
+        <td valign="top"><h5 align="center">22</h5></td>
+        <td valign="top" width="50%">
+          <h5 align="center">Kodikon</h5>
         </td>
         <td valign="top" width="50%">
           <h5 align="center"></h5>
