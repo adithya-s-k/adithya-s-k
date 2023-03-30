@@ -543,8 +543,8 @@ The body-controlled Chrome Dino Game is capable of detecting a variety of body m
               <a href="https://youtu.be/kS_2ZGTF39I"><h3 align="center">Shakthi</h3></a>
               <div>
         <div>
-          <details>
-            <summary><h6 align="center">See details</h6></summary>
+          
+            
                 <h4>Problem Statment</h4>
 
 With the increase in the tariff, monsoon fluctuations, and water scarcity, every good civilian would like to optimize the energy consumption at his residence. As expected, saving energy has an equal effect as compared to putting up Solar panels and producing alternate energy. Thus one Unit of Energy saved would be more efficient and more economical than generating one unit of Energy.
@@ -597,7 +597,7 @@ Control – Remote or Local
   </div>
 </div>
 
-</details>
+
   </div>
   
   </div>
