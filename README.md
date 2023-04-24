@@ -455,7 +455,12 @@
         </tr>
         <tr>
           <td><a href="https://enable-theupcycling-company.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/210171367-111c6fd4-f1d9-4849-8131-cd33c6ecdd6e.png" alt="enable website"></a></td>
-          <td><a href="" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/210171549-2c9dea18-958c-48bc-9b34-2113aba9940c.png" alt="courserf website"></a></td>
+          <td><a href="https://coursurf-courses.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/210171549-2c9dea18-958c-48bc-9b34-2113aba9940c.png" alt="courserf website"></a></td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://arithemania.vercel.app/" target="_blank"><img src="" alt="arithemania hackathon website"></a>
+          </td>
         </tr>
       </table>
     </div>
@@ -544,9 +549,7 @@ The body-controlled Chrome Dino Game is capable of detecting a variety of body m
               <div>
         <div>
           
-            
-                <h4>Problem Statment</h4>
-
+    
 With the increase in the tariff, monsoon fluctuations, and water scarcity, every good civilian would like to optimize the energy consumption at his residence. As expected, saving energy has an equal effect as compared to putting up Solar panels and producing alternate energy. Thus one Unit of Energy saved would be more efficient and more economical than generating one unit of Energy.
 
 This product is essentially a smart plug that connects between your appliance and electrical outlet and provides the following features.
