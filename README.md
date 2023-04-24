@@ -458,8 +458,7 @@
           <td><a href="https://coursurf-courses.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/210171549-2c9dea18-958c-48bc-9b34-2113aba9940c.png" alt="courserf website"></a></td>
         </tr>
         <tr>
-          <td>
-            <a href="https://arithemania.vercel.app/" target="_blank"><img src="" alt="arithemania hackathon website"></a>
+            <a href="https://arithemania.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/233911319-9a7b1dc4-43a3-42f2-9c6d-65bf75632f14.png" alt="arithemania hackathon website"></a>
           </td>
         </tr>
       </table>
