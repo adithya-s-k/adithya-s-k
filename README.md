@@ -17,9 +17,17 @@
 
 <a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 
-- My interests and passions lie in various areas of technology, including web development, machine learning, cloud computing, IoT, robotics, and drones. I am always eager to learn and explore new technologies and their potential to solve real-world problems.
-- As a programmer, I strive for consistency and always aim to improve my skills through continuous learning and practice. I consider myself to be a multitasker and am able to effectively handle multiple tasks and responsibilities at the same time. I believe that technology and code have the power to make a positive impact on the world and I am driven by the goal of using my skills and knowledge to find unique and innovative solutions to everyday problems.
-- I am a practical learner and prefer to learn by doing. I enjoy experimenting with new concepts and technologies on my own and am always open to new challenges and opportunities to grow as a programmer. Thank you for considering me and my skills.
+
+- 🌐 Web development, machine learning, cloud computing, IoT, robotics, and drones—my passions in the tech realm.
+- 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
+- 🎯 Consistent growth as a programmer through continuous learning and practice.
+- 🚀 AI development, LLM ops, devops, and LLM finetuning and deployment are my latest obsessions.
+- 💡 Practical learner who loves hands-on experimentation and embraces new challenges.
+- 🤝 Multitasker skilled at handling multiple responsibilities simultaneously.
+- 🌍 Firm believer in technology's power to make a positive impact.
+- 💼 Looking to collaborate on exciting projects and create something remarkable together!
+
+In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities!
 </div>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
@@ -41,13 +49,6 @@
     <a href="https://twitter.com/adithya_s_k" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a>
-    </a>
-    <!-- Dev link -->
-    <a href="" target="_blank">
-      <img src=https://img.shields.io/badge/dev.to-%232E3440.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-    </a>
-    <!-- follow link -->
     <a href="">
       <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
     </a>
