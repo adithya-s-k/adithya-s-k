@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Developer;Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Practitioner)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,7 +67,7 @@
   <!-- contribution graph -->
   <div>
   <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=0d1117&color=ffffff&line=b1cde5&point=39d353&area=true&hide_border=true" alt="Activity Graph">
   </a>
   </div>
 
@@ -75,7 +75,6 @@
   <br/>
 
   <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&show_icons=true&theme=nord&count_private=true&include_all_commits=true" /> 
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
   </div>
 
