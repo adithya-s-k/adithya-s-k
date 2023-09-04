@@ -68,8 +68,20 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
   </div>
 
   <br/>
-
 </div>
+https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord
+<table>
+  <tr>
+    <td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
+		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
+	</tr>
+	</table>
 <!-- ------------------------------------------------------------------------------------ -->
 
 <!-- ------------------------------------------------------------------------------------ -->
