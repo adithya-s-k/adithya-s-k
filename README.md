@@ -71,8 +71,9 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://adithyask.com"><img src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
-		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td>
+		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya-s-k&theme=nord"></a></td>
+		<!-- <td><a href="https://adithyask.com"><img src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td> -->
+		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
 	</tr>
 	<tr>
 		<td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
