@@ -89,7 +89,7 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <div align="center">
 
   <details>
-<summary><h1 align="center">My Skills</h1></summary>
+<summary><h2 align="center">My Skills</h2></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -434,10 +434,9 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Project Div -->
 <div align="center">
-  <h1 align="center">My Projects</h1>
   <div>
     <details>
-      <summary><h2 align="center">Websites</h2></summary>
+      <summary><h2 align="center">Websites I have Built</h2></summary>
       <div>
       <table align="center">
         <tr>
@@ -453,7 +452,9 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
           <td><a href="https://coursurf-courses.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/210171549-2c9dea18-958c-48bc-9b34-2113aba9940c.png" alt="courserf website"></a></td>
         </tr>
         <tr>
+          <td>
             <a href="https://arithemania.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/233911319-9a7b1dc4-43a3-42f2-9c6d-65bf75632f14.png" alt="arithemania hackathon website"></a>
+            <a href="https://money-mate-five.vercel.app/" target="_blank"><img src="https://github.com/adithya-s-k/adithya-s-k/assets/27956426/748ee4e2-88e8-448c-927f-3ad90873eee4" alt="Money mate"></a>
           </td>
         </tr>
       </table>
