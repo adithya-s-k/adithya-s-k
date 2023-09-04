@@ -47,7 +47,6 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <!-- Github stats div -->
 <!--
 <div>
-<h1 align="center">GitHub Statistics 📃</h1>
   <div>
     <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
   </div>
@@ -56,7 +55,7 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
   <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=0d1117&color=ffffff&line=b1cde5&point=39d353&area=true&hide_border=true" alt="Activity Graph">
   </a>
-  </div>
+</div>
   <br/>
 
   <div align="center">
@@ -66,16 +65,17 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
   <br/>
 </div> -->
 
+<h1 align="center">GitHub Statistics 📃</h1>
 <table>
+  <tr>
+    <td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
 	<tr>
 		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya-s-k&theme=nord_dark"></a></td>
 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td>
-	</tr>
-	<tr>
-		<td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
