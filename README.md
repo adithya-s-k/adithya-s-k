@@ -43,28 +43,6 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
   </div>
 </div>
 
-<!-- ------------------------------------------------------------------------------------ -->
-<!-- Github stats div -->
-<!--
-<div>
-  <div>
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
-  </div>
-  <br/>
-  <div>
-  <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=0d1117&color=ffffff&line=b1cde5&point=39d353&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</div>
-  <br/>
-
-  <div align="center">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord" />
-  </div>
-
-  <br/>
-</div> -->
-
 <h1 align="center">GitHub Statistics 📃</h1>
 <table>
   <tr>
@@ -89,7 +67,7 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <div align="center">
 
   <details>
-<summary><h2 align="center">My Skills</h2></summary>
+<summary><h1 align="center">My Skills</h1></summary>
 <!-- Main Table Column one -->
 <table><tr><td valign="top" width="50%">
 
@@ -436,7 +414,7 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <div align="center">
   <div>
     <details>
-      <summary><h2 align="center">Websites I have Built</h2></summary>
+      <summary><h1 align="center">Websites I have Built</h1></summary>
       <div>
       <table align="center">
         <tr>
@@ -454,6 +432,8 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
         <tr>
           <td>
             <a href="https://arithemania.vercel.app/" target="_blank"><img src="https://user-images.githubusercontent.com/27956426/233911319-9a7b1dc4-43a3-42f2-9c6d-65bf75632f14.png" alt="arithemania hackathon website"></a>
+          </td>
+          <td>
             <a href="https://money-mate-five.vercel.app/" target="_blank"><img src="https://github.com/adithya-s-k/adithya-s-k/assets/27956426/748ee4e2-88e8-448c-927f-3ad90873eee4" alt="Money mate"></a>
           </td>
         </tr>
