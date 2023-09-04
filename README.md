@@ -45,22 +45,18 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Github stats div -->
-
+<!--
 <div>
 <h1 align="center">GitHub Statistics 📃</h1>
-<!-- trophy stats -->
   <div>
     <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/>
-  </div>  
+  </div>
   <br/>
-  <!-- contribution graph -->
   <div>
   <a href = "https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=0d1117&color=ffffff&line=b1cde5&point=39d353&area=true&hide_border=true" alt="Activity Graph">
   </a>
   </div>
-
-  <!-- combined stats -->
   <br/>
 
   <div align="center">
@@ -68,14 +64,18 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
   </div>
 
   <br/>
-</div>
-https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord
+</div> -->
+
 <table>
-  <tr>
-    <td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
-  </tr>
 	<tr>
 		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adithya-s-k&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://adithyask.com"><img src="https://github-readme-stats.vercel.app/api?username=adithya-s-k&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
+		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td>
+	</tr>
+	<tr>
+		<td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
