@@ -8,9 +8,7 @@
 
 </div>
 
-
 <a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
-
 
 - 🌐 Web development, machine learning, cloud computing, IoT, robotics, and drones—my passions in the tech realm.
 - 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
@@ -22,6 +20,7 @@
 - 💼 Looking to collaborate on exciting projects and create something remarkable together!
 
 In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities!
+
 </div>
 
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
@@ -581,36 +580,36 @@ Control – Remote or Local
 - Shows latest Control status of Device
 - Condition Based Rules to turn On/Off of Electrical equipment
 - Support IFTTT (coming soon)
-  <div>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="100%" src="https://user-images.githubusercontent.com/27956426/210619032-83eb9302-b0b6-4fbf-b856-dacb30a48791.PNG" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619509-bae7ec63-03e3-4bf6-a003-b905ac48aed1.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619518-eb4f4d96-61a4-418f-b9db-43c8c96ecb5e.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619519-a6609e8b-f4e6-4351-b92d-0ce5aa0b4fd6.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619528-c4ad32ff-9e67-40b2-96f8-4e5b21d02804.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619530-5717c06b-b817-4b1a-8bb1-e6818534cc59.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619533-c8ef13c7-e0b1-4ce9-8c7e-87d15e906db0.jpeg" alt="Shakthi"></a>
-  <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619515-03145dec-08fc-48f4-91d6-1fe62636084c.jpeg" alt="Shakthi"></a>
+    <div>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="100%" src="https://user-images.githubusercontent.com/27956426/210619032-83eb9302-b0b6-4fbf-b856-dacb30a48791.PNG" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619509-bae7ec63-03e3-4bf6-a003-b905ac48aed1.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619518-eb4f4d96-61a4-418f-b9db-43c8c96ecb5e.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619519-a6609e8b-f4e6-4351-b92d-0ce5aa0b4fd6.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619528-c4ad32ff-9e67-40b2-96f8-4e5b21d02804.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619530-5717c06b-b817-4b1a-8bb1-e6818534cc59.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619533-c8ef13c7-e0b1-4ce9-8c7e-87d15e906db0.jpeg" alt="Shakthi"></a>
+    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619515-03145dec-08fc-48f4-91d6-1fe62636084c.jpeg" alt="Shakthi"></a>
+    </div>
   </div>
-</div>
 
-
-  </div>
-  
-  </div>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <div>
-  <h3>Plantic</h3>
-  <p>
-    Problem Statement: Limited Access to Real-time Plant Health Monitoring for Indoor Gardeners and Farmers
+    </div>
+    
+    </div>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <div>
+    <h3>Plantic</h3>
+    <p>
+      Problem Statement: Limited Access to Real-time Plant Health Monitoring for Indoor Gardeners and Farmers
 
 Indoor gardeners and farmers face the challenge of monitoring their plants' health in real-time, which is essential for ensuring optimal growth and yield. Traditional methods of monitoring plant health, such as manual observation or using bulky and expensive equipment, are often labor-intensive and time-consuming, making it difficult for indoor gardeners and small-scale farmers to keep track of their plants' health.
 
 Additionally, there is a lack of user-friendly and affordable solutions available in the market for plant health monitoring. Many of the available solutions are complex and require specialized knowledge to operate, making them inaccessible to the average indoor gardener or small-scale farmer.
 
 Therefore, there is a need for a solution that can provide real-time plant health monitoring that is both affordable and user-friendly. Such a solution must be easy to install, require minimal maintenance, and provide accurate and timely data on various physical conditions required for optimal plant growth. This solution would enable indoor gardeners and small-scale farmers to make informed decisions about their plant care and ensure optimal growth and yield, leading to improved food security and sustainable agricultural practices.
+
   </p>
   <p>
     Plantic is an innovative device designed to help home gardeners and farmers keep track of their plants' health. Plantic is a small sensor unit that can be inserted next to the plant, and it is capable of tracking various parameters such as soil moisture, humidity, temperature, soil temperature, sunlight, and soil fertility. This device is highly efficient, making it ideal for both home gardening and outdoor agriculture use.
@@ -620,6 +619,7 @@ The data collected by Plantic is transmitted wirelessly to a user-friendly app t
 Plantic is also designed to be highly durable and long-lasting. The device is built using high-quality materials and is capable of withstanding harsh outdoor environments. Plantic is also very easy to install and requires minimal maintenance, making it ideal for busy home gardeners and farmers.
 
 Overall, Plantic offers a powerful and efficient solution for plant health monitoring. With its advanced sensors and user-friendly app, the device can help users keep track of their plants' health and take the necessary actions to ensure optimal growth and yield. Whether used for home gardening or outdoor agriculture, Plantic is an essential tool for any plant lover or farmer looking to optimize their plant's health.
+
   </p>
   </div>
   </td>
@@ -636,6 +636,7 @@ The current process of crop selection and plant growth optimization for farmers 
 Furthermore, there is a lack of efficient and automated solutions available for farmers to help with crop recommendation and plant growth optimization. The current solutions available in the market are often costly, complex, and difficult to operate, making them unsuitable for small-scale farmers or home gardeners.
 
 Therefore, there is a need for an innovative solution that can optimize plant growth and recommend suitable crops for a particular field in an efficient and automated manner. Such a solution must be easy to use, affordable, and capable of providing accurate and real-time data on the physical conditions required for optimal plant growth. This solution would enable farmers to make informed decisions about crop selection and optimize plant growth, leading to higher yields and increased profitability.
+
   </p>
   <p>
     The Agriculture Bot is an innovative device designed to optimize plant growth and recommend suitable crops for a particular field. It is built using an Arduino microcontroller for interfacing with the sensors and an RPi for data processing and Wi-Fi connectivity. The device has a strong belt drive chassis that allows it to navigate rough terrains with ease.
@@ -645,6 +646,7 @@ The Agriculture Bot moves around the field in a fixed path and collects data on 
 The device is highly portable and can be easily deployed to any field, making it ideal for small and large-scale farmers alike. The data collected by the Agriculture Bot can be stored locally on the device or transmitted to a cloud-based platform for further analysis and visualization.
 
 Overall, the Agriculture Bot offers a powerful and efficient solution for crop recommendation and plant growth optimization. With its advanced sensors, machine learning algorithms, and robust chassis, the device can help farmers make informed decisions about crop selection and optimize plant growth, ultimately leading to higher yields and increased profitability.
+
   </p>
   </div>
   </td>
@@ -680,295 +682,6 @@ Overall, the Agriculture Bot offers a powerful and efficient solution for crop r
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Holopin Badge div -->
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
-
-<div align="center">
-  <details>
-    <summary><h1 align="center">Hackathons & Open Source</h1></summary>
-    <table>
-      <tr>
-        <td valign="top"><h2 align="center">No.</h2></td>
-        <td valign="top" width="50%">
-          <h2 align="center">Hackathons</h2>
-        </td>
-        <td valign="top" width="50%">
-          <h2 align="center">Certification</h2>
-        </td>
-        <td valign="top" width="50%">
-          <h2 align="center">Description</h2>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">1</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Hallothon 2021</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">2</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Amithon</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">3</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Techonphilia</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">4</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">WAccinge</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">5</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">DotSlash</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">6</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Develop For Her</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">7</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Hashcode 2021</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">8</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">DU Hack</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center">
-            <a href="https://duhacks.tech/"><img width="200px" src="https://user-images.githubusercontent.com/27956426/213263046-a3412073-4864-48c0-8ba0-26b3bd391eb0.png" alt="DU Hack certificate"></a>
-          </h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">9</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Smart India Hackathon(SIH)</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center">
-            <a href="https://www.sih.gov.in/"><img width="100px" src="https://user-images.githubusercontent.com/27956426/213264078-0d07ff4a-33c2-41fa-ac08-da2e9c2ab2b9.jpg" alt="SIH certificate"></a>
-          </h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">10</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Error 404</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">11</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Hack4Soc</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">12</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Major Project Selection</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">13</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">IEEE Pune Chapter Hackathon</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">14</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Aikya Haul It Away</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center">
-            <a href=""><img width="200px" src="https://user-images.githubusercontent.com/27956426/213264455-ccbdb9cb-4b6f-4b8f-9b22-05cdd4bbe714.png" alt="Aikya Haul it away certificate"></a>
-          </h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">15</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">HackStack</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">16</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Health Hack(Weal)</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">17</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Silicon Rush</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">18</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">LOC Appex</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">19</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Centurition(MSRIT)</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">20</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Hallothon</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top"><h5 align="center">21</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">RV AI Hackathon</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      <tr>
-        <td valign="top"><h5 align="center">22</h5></td>
-        <td valign="top" width="50%">
-          <h5 align="center">Kodikon</h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-        <td valign="top" width="50%">
-          <h5 align="center"></h5>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
 
 <h1 align="center">Badges and Certificates</h1>
 
