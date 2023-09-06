@@ -1,10 +1,8 @@
-![banner](https://user-images.githubusercontent.com/27956426/210167823-65c4ea84-0975-4eb4-9e3e-a3d855fb9697.png)
-
 <h1 align="center">Hi 👋, I'm Adithya S Kolavi</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Developer;Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Developer;Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,9 +19,6 @@
 
 In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities!
 
-</div>
-
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/>
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Connect with me div -->
 <div>
@@ -74,13 +69,8 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 
   <br/>
 
-  <!-- <div align="center">
-    <img width="50%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adithya-s-k&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%232E3440;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232E3440;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" />
-  </div> -->
 </div>
 <!-- ------------------------------------------------------------------------------------ -->
-
-<!-- <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=2.5'/> -->
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- My Skill Div -->
@@ -458,226 +448,6 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
     </div>
     </details>
   </div>
-<hr>
-  <div>
-    <details>
-      <summary><h2 align="center">Computer Vision | AI ML </h2></summary>
-      <div>
-      <table align="center">
-        <tr>
-          <td>
-            <div>
-              <h3>AIWA(AI Assisted Workout Assistent)</h3>
-              <p>
-                developed an AI workout assistant using OpenCV and Mediapipe, with the goal of helping individuals improve their form and technique during workouts. The AI workout assistant is designed to detect and analyze a person's movements in real-time using computer vision and machine learning techniques.
-The system uses a webcam or camera to capture the person's movements during the workout and then utilizes OpenCV to detect and track the position and orientation of various body parts. The Mediapipe framework is used to apply machine learning algorithms to estimate the person's pose, recognize their movements, and provide feedback on their form and technique.
-The AI workout assistant is capable of detecting a variety of common exercises, including squats, lunges, push-ups, and more. During the workout, the system provides real-time feedback to the user, including visual and audio cues, to help them improve their form and technique. The system also tracks progress over time, providing users with valuable insights into their performance and improvement.
-              </p>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div>
-              <h3>EUDA(Emotion Detection)</h3>
-              <p>
-                developed an emotion detector using OpenCV and Mediapipe, with the goal of helping individuals better understand and manage their emotions. The emotion detector is designed to analyze a person's facial expressions in real-time using computer vision and machine learning techniques.
-The system uses a webcam or camera to capture the person's facial expressions and then utilizes OpenCV to detect and track various facial landmarks, such as the eyes, nose, mouth, and eyebrows. The Mediapipe framework is used to apply machine learning algorithms to these facial landmarks to estimate the person's emotions and provide feedback in real-time.
-The emotion detector is capable of detecting a variety of emotions, including happiness, sadness, anger, surprise, and more. During use, the system provides real-time feedback to the user, including a visual representation of their emotional state and suggestions for ways to manage their emotions.
-              </p>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div>
-              <h3>Attention Detection</h3>
-              <p>
-                developed an attention detector using OpenCV and Mediapipe, with the goal of helping individuals improve their focus and productivity. The attention detector is designed to track a person's eye movements in real-time using computer vision and machine learning techniques.
-The system uses a webcam or camera to capture the person's eye movements and then utilizes OpenCV to detect and track the position and orientation of their eyes. The Mediapipe framework is used to apply machine learning algorithms to estimate whether the person is looking at the screen or elsewhere.
-The attention detector is capable of detecting a variety of eye movements, including blinks, saccades, and fixations. During use, the system provides real-time feedback to the user, including a visual representation of their attention and suggestions for ways to improve their focus.
-              </p>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div>
-              <h3>Chrome Dino Game</h3>
-              <p>
-                developed a body-controlled Chrome Dino Game using OpenCV and Mediapipe, with the goal of creating an interactive and engaging gaming experience. The Chrome Dino Game is a classic game that is available on the Google Chrome browser when there is no internet connection available.
-The system uses a webcam or camera to capture the person's body movements and then utilizes OpenCV to detect and track the position and orientation of various body parts, such as the head and hands. The Mediapipe framework is used to apply machine learning algorithms to estimate the person's movements and translate them into game actions.
-The body-controlled Chrome Dino Game is capable of detecting a variety of body movements, such as jumping, crouching, and moving left or right. During the game, the system provides real-time feedback to the user, allowing them to control the game using their body movements.
-              </p>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <div>
-              <h3>Busted</h3>
-              <p>
-                developed a motion detection security system using OpenCV and Mediapipe, with the goal of creating a simple and effective way to monitor and secure properties. The system is designed to detect motion using computer vision and machine learning techniques, and automatically start video recording and send an alert to the owner via email.
-                The system uses a webcam or camera to capture the area to be monitored and then utilizes OpenCV to detect any motion in the scene. The Mediapipe framework is used to apply machine learning algorithms to distinguish between real motion and false alarms, such as changes in lighting or shadows.
-                When motion is detected, the system automatically starts recording video and sends an email alert to the owner with the recorded video as an attachment. The system can also be configured to trigger an alarm or alert a security company if required.
-              </p>
-            </div>
-          </td>
-        </tr>
-      </div>
-      </table>
-    </details>
-  </div>
-<hr>
-  <div>
-    <details>
-      <summary><h2 align="center">Iot | Robotics | Drones</h2></summary>
-      <div>
-      <table align="center">
-        <tr>
-          <td>
-            <div>
-              <a href="https://youtu.be/kS_2ZGTF39I"><h3 align="center">Shakthi</h3></a>
-              <div>
-        <div>
-          
-    
-With the increase in the tariff, monsoon fluctuations, and water scarcity, every good civilian would like to optimize the energy consumption at his residence. As expected, saving energy has an equal effect as compared to putting up Solar panels and producing alternate energy. Thus one Unit of Energy saved would be more efficient and more economical than generating one unit of Energy.
-
-This product is essentially a smart plug that connects between your appliance and electrical outlet and provides the following features.
-
-- Round-the clock Energy monitoring
-- Alerts on reaching a monthly, weekly set-point
-- Ability to control the functioning of the devices connected
-- Scheduling of ON/OFF of devices and help become more productive
-- Access from anywhere daily, weekly and monthly report
-
-Other features
-Elegant design
-
-- Ergonomically designed product for Home use
-- Universal socket for easy connectivity
-- Unique body design for plug-in and plug-out operations
-- High grade electrically insulated design
-
-Energy Monitoring
-
-- Monitor Energy consumption round the clock
-- Measures Actual Energy usage along with reactive/apparent usage
-- Tamper-proof energy monitoring with ability to store Energy usage up-to 3 months
-- Handles all variety of Loads and measures Energy with high accuracy.
-
-Planning and Scheduling
-
-- Plan and schedule Electrical equipment based on date, time and duration.
-- Support recurring patters of On/Off of Electrical equipment
-- Condition Based Rules to turn On/Off of Electrical equipment
-- Support IFTTT (coming soon)
-
-Control – Remote or Local
-
-- Switch ON-OFF Electrical equipment from anywhere and from any device
-- Shows latest Control status of Device
-- Condition Based Rules to turn On/Off of Electrical equipment
-- Support IFTTT (coming soon)
-    <div>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="100%" src="https://user-images.githubusercontent.com/27956426/210619032-83eb9302-b0b6-4fbf-b856-dacb30a48791.PNG" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619509-bae7ec63-03e3-4bf6-a003-b905ac48aed1.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619518-eb4f4d96-61a4-418f-b9db-43c8c96ecb5e.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619519-a6609e8b-f4e6-4351-b92d-0ce5aa0b4fd6.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619528-c4ad32ff-9e67-40b2-96f8-4e5b21d02804.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619530-5717c06b-b817-4b1a-8bb1-e6818534cc59.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619533-c8ef13c7-e0b1-4ce9-8c7e-87d15e906db0.jpeg" alt="Shakthi"></a>
-    <a href="https://youtu.be/kS_2ZGTF39I" target="_blank"><img width="49%" src="https://user-images.githubusercontent.com/27956426/210619515-03145dec-08fc-48f4-91d6-1fe62636084c.jpeg" alt="Shakthi"></a>
-    </div>
-  </div>
-
-    </div>
-    
-    </div>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <div>
-    <h3>Plantic</h3>
-    <p>
-      Problem Statement: Limited Access to Real-time Plant Health Monitoring for Indoor Gardeners and Farmers
-
-Indoor gardeners and farmers face the challenge of monitoring their plants' health in real-time, which is essential for ensuring optimal growth and yield. Traditional methods of monitoring plant health, such as manual observation or using bulky and expensive equipment, are often labor-intensive and time-consuming, making it difficult for indoor gardeners and small-scale farmers to keep track of their plants' health.
-
-Additionally, there is a lack of user-friendly and affordable solutions available in the market for plant health monitoring. Many of the available solutions are complex and require specialized knowledge to operate, making them inaccessible to the average indoor gardener or small-scale farmer.
-
-Therefore, there is a need for a solution that can provide real-time plant health monitoring that is both affordable and user-friendly. Such a solution must be easy to install, require minimal maintenance, and provide accurate and timely data on various physical conditions required for optimal plant growth. This solution would enable indoor gardeners and small-scale farmers to make informed decisions about their plant care and ensure optimal growth and yield, leading to improved food security and sustainable agricultural practices.
-
-  </p>
-  <p>
-    Plantic is an innovative device designed to help home gardeners and farmers keep track of their plants' health. Plantic is a small sensor unit that can be inserted next to the plant, and it is capable of tracking various parameters such as soil moisture, humidity, temperature, soil temperature, sunlight, and soil fertility. This device is highly efficient, making it ideal for both home gardening and outdoor agriculture use.
-
-The data collected by Plantic is transmitted wirelessly to a user-friendly app that displays the information in colorful charts. The app provides a visual representation of the data collected by Plantic, making it easy for users to quickly assess their plant's health. The app can be accessed from a mobile device, making it convenient for users to monitor their plants' health on the go.
-
-Plantic is also designed to be highly durable and long-lasting. The device is built using high-quality materials and is capable of withstanding harsh outdoor environments. Plantic is also very easy to install and requires minimal maintenance, making it ideal for busy home gardeners and farmers.
-
-Overall, Plantic offers a powerful and efficient solution for plant health monitoring. With its advanced sensors and user-friendly app, the device can help users keep track of their plants' health and take the necessary actions to ensure optimal growth and yield. Whether used for home gardening or outdoor agriculture, Plantic is an essential tool for any plant lover or farmer looking to optimize their plant's health.
-
-  </p>
-  </div>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <div>
-  <h3>ArgiBot</h3>
-  <p>
-    Problem Statement: Lack of Efficient and Automated Solutions for Crop Recommendation and Plant Growth Optimization
-
-The current process of crop selection and plant growth optimization for farmers involves manual observation and analysis of various physical conditions in the field. This process is time-consuming and prone to errors, which can result in lower yields and decreased profitability for farmers. Additionally, traditional methods of monitoring physical conditions such as soil moisture, temperature, and humidity are often labor-intensive and require frequent human intervention.
-
-Furthermore, there is a lack of efficient and automated solutions available for farmers to help with crop recommendation and plant growth optimization. The current solutions available in the market are often costly, complex, and difficult to operate, making them unsuitable for small-scale farmers or home gardeners.
-
-Therefore, there is a need for an innovative solution that can optimize plant growth and recommend suitable crops for a particular field in an efficient and automated manner. Such a solution must be easy to use, affordable, and capable of providing accurate and real-time data on the physical conditions required for optimal plant growth. This solution would enable farmers to make informed decisions about crop selection and optimize plant growth, leading to higher yields and increased profitability.
-
-  </p>
-  <p>
-    The Agriculture Bot is an innovative device designed to optimize plant growth and recommend suitable crops for a particular field. It is built using an Arduino microcontroller for interfacing with the sensors and an RPi for data processing and Wi-Fi connectivity. The device has a strong belt drive chassis that allows it to navigate rough terrains with ease.
-
-The Agriculture Bot moves around the field in a fixed path and collects data on the physical conditions of the soil, temperature, humidity, and other parameters using its sensors. This data is then processed using machine learning algorithms to determine the best suitable crop for the field. The device also provides recommendations on the physical conditions required for optimal plant growth, including the required level of irrigation, nutrients, and other factors.
-
-The device is highly portable and can be easily deployed to any field, making it ideal for small and large-scale farmers alike. The data collected by the Agriculture Bot can be stored locally on the device or transmitted to a cloud-based platform for further analysis and visualization.
-
-Overall, the Agriculture Bot offers a powerful and efficient solution for crop recommendation and plant growth optimization. With its advanced sensors, machine learning algorithms, and robust chassis, the device can help farmers make informed decisions about crop selection and optimize plant growth, ultimately leading to higher yields and increased profitability.
-
-  </p>
-  </div>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <div>
-  <h3>Phoenix VTOL</h3>
-  </div>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <div>
-  <h3>HexaCopter Banner Drone</h3>
-  </div>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <div>
-  <h3>QuadCopter with Servaillence</h3>
-  </div>
-  </td>
-  </tr>
-  </div>
-  </table>
-    </details>
-  </div>
-
-</div>
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Holopin Badge div -->
