@@ -53,10 +53,10 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td>
 		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithya-s-k&theme=nord_dark"></a></td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
-	</tr>
+	</tr> -->
 	</table>
 <!-- ------------------------------------------------------------------------------------ -->
 
