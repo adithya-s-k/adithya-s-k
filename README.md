@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Developer;Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Founder;AI+Developer;LLMops;Full+Stack+Web+Dev;UAV+and+Drones;Robotics+and+IoT;Open-Source+Contributor;Freelancer;UI+UX+and+Graphic+Designer;Cloud+Developer)](https://git.io/typing-svg)
 
 </div>
 
-<a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
+<!-- <a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 
 - 🌐 Web development, machine learning, cloud computing, IoT, robotics, and drones—my passions in the tech realm.
 - 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
@@ -17,7 +17,7 @@
 - 🌍 Firm believer in technology's power to make a positive impact.
 - 💼 Looking to collaborate on exciting projects and create something remarkable together!
 
-In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities!
+In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities! -->
 
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Connect with me div -->
