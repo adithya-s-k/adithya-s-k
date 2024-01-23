@@ -22,8 +22,6 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Connect with me div -->
 <div>
-  <h1 align="center">Connect with me</h1>
-
   <div align="center">
   <!-- Github link -->
     <a href="https://github.com/adithya-s-k" target="_blank">
